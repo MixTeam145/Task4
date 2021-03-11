@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615455919 source:d:\codeblocks\task4\main.cpp
+	<iostream>
+	<windows.h>
+	"Task4.h"
+
+1615455895 source:d:\codeblocks\task4\task4.cpp
+	<iostream>
+	"Task4.h"
+
+1615455910 d:\codeblocks\task4\task4.h
+
